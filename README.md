@@ -8,6 +8,8 @@
 - 📫 How to reach me ... 
     - Here's my [Sahil-Raina@LinkedIn](https://www.linkedin.com/in/sahilrainab/) and 
     - my e-mail : sahilraina2004.sr@gmail.com
+    - Leetcode : [Sahil@LeetCode](https://leetcode.com/sahilraina/)
+    - Coding Ninjas : [Sahil@CodingNinjas](https://www.naukri.com/code360/profile/3335fdc8-5e65-4394-afa0-3c83dd87398b)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
