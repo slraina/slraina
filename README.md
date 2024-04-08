@@ -4,7 +4,7 @@
 - 💫 I’m interested in Development, Data Structures, Algorithms, System Design. 
 - 🌱 I’m currently learning and improving Java, Spring
 - 💞️ I’m looking to collaborate on ...
-    - Fullstack Projects     
+    - Fullstack Spring Projects     
 - 📫 How to reach me ... 
     - Here's my [Sahil-Raina@LinkedIn](https://www.linkedin.com/in/sahilrainab/) and 
     - my e-mail : sahilraina2004.sr@gmail.com
