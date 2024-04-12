@@ -1,4 +1,6 @@
 # 👀 About Me:
+<img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right">
+
 ![Samsung Badge](https://img.shields.io/badge/Samsung-1428A0.svg?style=for-the-badge&logo=Samsung&logoColor=white)
 - 👋 Hi, I’m @slraina currently coding for Samsung.
 - 💫 I’m interested in Development, Data Structures, Algorithms, System Design. 
